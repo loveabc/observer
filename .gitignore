@@ -1,0 +1,9 @@
+
+/target/
+.settings
+.classpath
+.project
+web.xml
+CryptoSvc.xml
+default.xml
+config.properties
