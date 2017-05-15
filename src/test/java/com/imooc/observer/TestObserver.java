@@ -10,7 +10,7 @@ import com.imooc.subjectimpl.StockSubjectImpl;
 public class TestObserver {
 
 	public static void main(String[] args) {
-		// 两个观察者小明和小米
+		// 三个观察者小明、小米和小兰
 		ObserverImpl xiaoming = new ObserverImpl();
 		xiaoming.setObserverName("小明");
 		ObserverImpl xiaomi = new ObserverImpl();
